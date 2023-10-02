@@ -1,5 +1,5 @@
-import { Description } from './components/Description';
-import { ErrorMessage } from './components/ErrorMessage';
+import { Description } from '../components/Description';
+import { ErrorMessage } from '../components/ErrorMessage';
 
 export default function Home() {
   return (

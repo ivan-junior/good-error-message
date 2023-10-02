@@ -6,7 +6,7 @@ export function ErrorMessage() {
                 <span className='bg-green-200'>Unable to connect your account</span>
             </h1>
             <div className='mb-8'>
-                <span className='bg-pink-300'>Your changes were saved,</span> <span className='bg-orange-200'>but we could not connect your account due to a technical issue on our end.</span> <span className='bg-purple-200'>Please try connecting again.</span> <span className='bg-blue-100'>If the issue keeps happening, <a href="#" className='hover:border-b-2 border-black'>contact Customer Care.</a></span>
+                <span className='bg-pink-300'>Your changes were saved,</span> <span className='bg-orange-200'>but we could not connect your account due to a technical issue on our end.</span> <span className='bg-purple-200'>Please try connecting again.</span> <span className='bg-blue-100'>If the issue keeps happening, <a href="#" className='hover:underline'>contact Customer Care.</a></span>
             </div>
 
             <div className='flex items-center justify-around md:justify-end md:gap-5'>
